@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F208DA0C-D762-4675-A2F7-1CA906557392}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PlatformerTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

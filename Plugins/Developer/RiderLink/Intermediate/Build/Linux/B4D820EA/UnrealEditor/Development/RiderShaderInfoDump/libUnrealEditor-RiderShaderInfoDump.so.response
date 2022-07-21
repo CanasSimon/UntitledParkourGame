@@ -1,0 +1,6 @@
+"/media/Data/Repos/Unreal Engine 5 Projects/PlatformerTest/Plugins/Developer/RiderLink/Intermediate/Build/Linux/B4D820EA/UnrealEditor/Development/RiderShaderInfoDump/RiderShaderInfoDump.cpp.o"
+ -soname="libUnrealEditor-RiderShaderInfoDump.so"
+ -rpath-link="/media/Data/Repos/Unreal Engine 5 Projects/PlatformerTest/Plugins/Developer/RiderLink/Binaries/Linux"
+ -L"/opt/unreal-engine5/Engine/Binaries/Linux"
+ --start-group
+ --end-group

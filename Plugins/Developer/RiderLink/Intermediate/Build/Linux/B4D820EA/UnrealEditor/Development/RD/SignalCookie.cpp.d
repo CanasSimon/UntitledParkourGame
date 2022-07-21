@@ -1,0 +1,75 @@
+/media/Data/Repos/Unreal\ Engine\ 5\ Projects/PlatformerTest/Plugins/Developer/RiderLink/Intermediate/Build/Linux/B4D820EA/UnrealEditor/Development/RD/SignalCookie.cpp.o: \
+  /media/Data/Repos/Unreal\ Engine\ 5\ Projects/PlatformerTest/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/SignalCookie.cpp \
+  /media/Data/Repos/Unreal\ Engine\ 5\ Projects/PlatformerTest/Plugins/Developer/RiderLink/Intermediate/Build/Linux/B4D820EA/UnrealEditor/Development/RD/Definitions.h \
+  /media/Data/Repos/Unreal\ Engine\ 5\ Projects/PlatformerTest/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/reactive/base/SignalCookie.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/cstdint \
+  ThirdParty/Unix/LibCxx/include/c++/v1/__config \
+  ThirdParty/Unix/LibCxx/include/c++/v1/__config_site \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/features.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/stdc-predef.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/sys/cdefs.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/wordsize.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/gnu/stubs.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/gnu/stubs-64.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/pthread.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/stdint.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/lib/clang/13.0.1/include/stdint.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/stdint.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/wchar.h \
+  /media/Data/Repos/Unreal\ Engine\ 5\ Projects/PlatformerTest/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/rd_core_export.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/atomic \
+  ThirdParty/Unix/LibCxx/include/c++/v1/__availability \
+  ThirdParty/Unix/LibCxx/include/c++/v1/__threading_support \
+  ThirdParty/Unix/LibCxx/include/c++/v1/chrono \
+  ThirdParty/Unix/LibCxx/include/c++/v1/compare \
+  ThirdParty/Unix/LibCxx/include/c++/v1/type_traits \
+  ThirdParty/Unix/LibCxx/include/c++/v1/cstddef \
+  ThirdParty/Unix/LibCxx/include/c++/v1/version \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/lib/clang/13.0.1/include/stddef.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/lib/clang/13.0.1/include/__stddef_max_align_t.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/__nullptr \
+  ThirdParty/Unix/LibCxx/include/c++/v1/ctime \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/time.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/stddef.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/time.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/types.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/typesizes.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/timex.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/xlocale.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/limits \
+  ThirdParty/Unix/LibCxx/include/c++/v1/__undef_macros \
+  ThirdParty/Unix/LibCxx/include/c++/v1/ratio \
+  ThirdParty/Unix/LibCxx/include/c++/v1/climits \
+  ThirdParty/Unix/LibCxx/include/c++/v1/limits.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/lib/clang/13.0.1/include/limits.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/limits.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/posix1_lim.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/local_lim.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/linux/limits.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/posix2_lim.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/xopen_lim.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/stdio_lim.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/errno.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/errno.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/errno.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/linux/errno.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/asm/errno.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/asm-generic/errno.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/asm-generic/errno-base.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/iosfwd \
+  ThirdParty/Unix/LibCxx/include/c++/v1/wchar.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/wchar.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/stdio.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/stdio.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/lib/clang/13.0.1/include/stdarg.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/endian.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/endian.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/byteswap.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/byteswap-16.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/sched.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/sched.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/pthreadtypes.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/bits/setjmp.h \
+  ThirdParty/Unix/LibCxx/include/c++/v1/cstring \
+  ThirdParty/Unix/LibCxx/include/c++/v1/string.h \
+  /opt/unreal-engine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/usr/include/string.h

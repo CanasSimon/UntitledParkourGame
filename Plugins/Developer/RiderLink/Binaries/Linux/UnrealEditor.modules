@@ -1,0 +1,12 @@
+{
+	"BuildId": "519e3481-05e7-4536-bfb4-18f0744fbf13",
+	"Modules": 
+	{
+		"RD": "libUnrealEditor-RD.so",
+		"RiderBlueprint": "libUnrealEditor-RiderBlueprint.so",
+		"RiderGameControl": "libUnrealEditor-RiderGameControl.so",
+		"RiderLink": "libUnrealEditor-RiderLink.so",
+		"RiderLogging": "libUnrealEditor-RiderLogging.so",
+		"RiderShaderInfoDump": "libUnrealEditor-RiderShaderInfoDump.so"
+	}
+}
